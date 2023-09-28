@@ -25,7 +25,7 @@
     "@actions/artifact": "^0.1.0",
     "@actions/core": "^1.2.2",
     "@actions/github": "^2.1.1",
-    "@octokit/graphql": "^4.3.1",
+    "@octokit/graphql": "^7.0.2",
     "@octokit/rest": "^17.0.0",
     "csv-to-markdown-table": "1.1.0",
     "csv2md": "^1.1.0"
